@@ -1,0 +1,3 @@
+[workspace]
+members = ["imgproxy"]
+resolver = "3"
